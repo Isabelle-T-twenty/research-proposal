@@ -1,9 +1,8 @@
 h1 {
-  text-align: center;
-  font-size: 1em;
-  color: #009;
+  text-align: left;
+  font-size: em;
+  color: #003;
   margin-bottom: .3em;
-  text-decoration: underline;
 }
 
 table {
