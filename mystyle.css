@@ -1,10 +1,10 @@
-body {
-  background-color: lightblue;
-}
-
 h1 {
   text-align: left;
   font-size: 2em;
   color: #003;
   margin-bottom: .3em;
+}
+body {
+  background-color: lightblue;
+  font-family: Helvetica, sans-serif;
 }
